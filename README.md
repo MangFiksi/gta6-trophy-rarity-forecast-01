@@ -1,8 +1,8 @@
 # GTA VI Trophy Rarity Forecaster
 
-[![make.fun bounty](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
-[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/MangFiksi/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
-[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/MangFiksi/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/MangFiksi/gta6-trophy-rarity-forecast-01/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/MangFiksi/gta6-trophy-rarity-forecast-01/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
 
 Entry for the [gta6-trophy-rarity-forecast-01 bounty on make.fun](https://make.fun/bounty/gta6-trophy-rarity-forecast-01).
 
